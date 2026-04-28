@@ -12,4 +12,4 @@ let quantidadePedido = 5;
 let estoqueOK = quantidadePedido <= estoque;
 
 if (!estoqueOK) {
-    console.log("Pedido RECUSADO - estoque insuficiente")
+    console.log("Pedido RECUSADO - estoque insuficiente");
